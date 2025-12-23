@@ -1,0 +1,5 @@
+{
+    "name": "CityCheatsheet",
+    "description": "This is a cheatsheet auto-typesetting tool for students from City University of Hong Kong. This tool maps your Markdown notes to an A4 paper (both sides) automatically.",
+    "requestFramePermissions": []
+}
